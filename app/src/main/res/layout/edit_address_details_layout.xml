@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/submit_layout"
+        android:fillViewport="true">
+
+
+        <RelativeLayout
+            android:gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <RelativeLayout
+                android:id="@+id/add_title_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <TextView
+                    android:id="@+id/add_title_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Address"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textSize="16dp"/>
+
+
+                <EditText
+                    android:id="@+id/et_full_add"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:inputType="textMultiLine"
+                    android:layout_below="@+id/add_title_txt"
+                    android:paddingLeft="10dp"
+                    android:gravity="top"
+                    android:padding="5dp"
+                    android:maxLines="3"
+                    android:maxLength="250"
+                    android:layout_marginTop="5dp"
+                    android:hint="Write here"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_below="@+id/add_title_layout"
+                android:id="@+id/place_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Country"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="16dp"/>
+
+                    />
+                    <EditText
+                        android:id="@+id/city_name_list"
+                        android:layout_width="match_parent"
+                        android:layout_below="@+id/add_title_txt"
+                        android:layout_height="50dp"
+                        android:paddingLeft="10dp"
+                        android:singleLine="true"
+                        android:hint="City"
+                        android:visibility="gone"
+                        android:imeOptions="actionDone"
+                        android:maxLines="1"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"/>
+
+                    <AutoCompleteTextView
+                        android:id="@+id/autoCompleteTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:hint="City"
+                        android:padding="10dp"
+                        android:visibility="gone"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <Spinner
+                        android:id="@+id/spinner2"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"
+                        style="@style/spinner_style"
+                        />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="State"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="16dp"/>
+
+                    <EditText
+                        android:id="@+id/country_name_list"
+                        android:layout_below="@+id/add_title_txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:paddingLeft="10dp"
+                        android:singleLine="true"
+                        android:maxLines="1"
+                        android:hint="Country"
+                        android:visibility="gone"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"/>
+
+
+                    <AutoCompleteTextView
+                        android:id="@+id/country_autoCompleteTextView"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:hint="Country"
+                        android:padding="10dp"
+                        android:visibility="gone"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <Spinner
+
+                        android:id="@+id/spinner3"
+                        android:layout_width="match_parent"
+                        android:layout_below="@+id/add_title_txt"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"
+                        style="@style/spinner_style"
+                        />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <RelativeLayout
+                android:id="@+id/statedetail_layout"
+                android:layout_below="@+id/place_layout"
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_height="wrap_content">
+
+
+                <TextView
+                    android:id="@+id/state_titile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="City"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="16dp"/>
+
+                <EditText
+                    android:id="@+id/state_name_list"
+                    android:layout_width="match_parent"
+                    android:layout_below="@+id/state_titile"
+                    android:layout_height="50dp"
+                    android:paddingLeft="10dp"
+                    android:singleLine="true"
+                    android:visibility="gone"
+                    android:maxLines="1"
+                    android:hint="State"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <Spinner
+
+                    android:id="@+id/spinner1"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_below="@+id/state_titile"
+                    android:paddingLeft="10dp"
+                    style="@style/spinner_style"
+                    />
+
+            </RelativeLayout>
+            <LinearLayout
+                android:layout_below="@+id/statedetail_layout"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pincode"
+                        android:layout_marginLeft="10dp"
+                        android:textSize="16dp"/>
+
+
+                    <EditText
+                        android:id="@+id/et_pincode"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:inputType="number"
+                        android:singleLine="true"
+                        android:layout_below="@+id/add_title_txt"
+                        android:paddingLeft="10dp"
+                        android:layout_marginTop="5dp"
+                        android:hint="Pincode"
+                        android:maxLength="6"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginLeft="10dp"/>
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/submit_layout"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        >
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/proceed_txt"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            app:cardBackgroundColor="#222"
+            app:cardCornerRadius="7dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:padding="5dp"
+                    android:text="submit"
+                    android:textColor="@color/white"
+                    android:textSize="25dp" />
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Momskart Seller\'s App</string>
+    <string name="profile">Profile</string>
+    <string name="products">Products</string>
+    <string name="upload">Upload</string>
+    <string name="my_wallet">My wallet</string>
+    <string name="deshboard">Deshboard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification">Notification</string>
+    <string name="help">Help</string>
+</resources>

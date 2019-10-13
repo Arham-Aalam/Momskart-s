@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.alahammad:android-OTP-View:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7676de7387415c9a43ecde34d458d05/android-OTP-View-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7676de7387415c9a43ecde34d458d05/android-OTP-View-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

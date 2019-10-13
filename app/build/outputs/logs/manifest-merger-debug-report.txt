@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [pro.appus:zoom-splash:1.0.0] /home/arham/.gradle/caches/transforms-2/files-2.1/b55006f7c64ac3eca3275283af5c229f/zoom-splash-1.0.0/AndroidManifest.xml:3:1-17:12
+MERGED from [agency.tango.android:material-intro-screen:0.0.5] /home/arham/.gradle/caches/transforms-2/files-2.1/f0db727c06071417dcf63caa0b40493a/material-intro-screen-0.0.5/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/1a565d561e73523cfde93032b5e4f241/design-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.GwonHyeok:StickySwitch:0.0.15] /home/arham/.gradle/caches/transforms-2/files-2.1/7c823cec50c1c8ee334e748a54b048aa/StickySwitch-0.0.15/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.alahammad:android-OTP-View:1.0.2] /home/arham/.gradle/caches/transforms-2/files-2.1/d7676de7387415c9a43ecde34d458d05/android-OTP-View-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/arham/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.volley:volley:1.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/20754241ad6e2d9722ce0521dfc79b37/volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.gauravk.bubblenavigation:bubblenavigation:1.0.7] /home/arham/.gradle/caches/transforms-2/files-2.1/b07a636de26a3fec374af5456511d043/bubblenavigation-1.0.7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/da76df02a2cfb28e1a68168646e15cbb/play-services-location-11.4.2/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/852664da93f4abfd4be648900090c726/play-services-tasks-11.4.2/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/b85946afde5a43ea608eda5eccc7d9e8/support-v4-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/3780989bbb47afd43f2eeea4b35b6d56/MPAndroidChart-v3.1.0/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/269ee0dea52177bd7d346753b02cc344/cardview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/arham/.gradle/caches/transforms-2/files-2.1/f7d0197a0a52f55b5465816d485e66db/searchablespinnerlibrary-1.3.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.ogaclejapan.smarttablayout:library:1.7.0] /home/arham/.gradle/caches/transforms-2/files-2.1/04d925f3f034c4d789bf26fa15b79606/library-1.7.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.Temidtech:AndroidOtpCustomViewmaster:1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/683f3e7647cd19420204b78dd87f4db0/AndroidOtpCustomViewmaster-1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.zcweng:switch-button:0.0.3] /home/arham/.gradle/caches/transforms-2/files-2.1/de8a97f037dac0242bde375223c9e2f4/switch-button-0.0.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikhaellopez:circularimageview:4.0.2] /home/arham/.gradle/caches/transforms-2/files-2.1/36384720dd6e884241ed65c96ba7cf66/circularimageview-4.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/32603cb6266624d8adb9fb18c3e354e3/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/07d39432c8967fd9e82176e2bdb9c63b/transition-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/9c0db70b5ab5bab747773bbfa20f7935/support-media-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/3159008aed2bf2fa8c2d568c390c96ae/play-services-location-license-11.4.2/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/4d918c28e53bd6b9229b0cd1d683c2fd/play-services-base-license-11.4.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/46ff553a72f8aa1a2138b818b54a5ffd/play-services-basement-license-11.4.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/e7d653c1bb8923a62c58b580f710fbb0/play-services-tasks-license-11.4.2/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:5:5-32:19
+MERGED from [pro.appus:zoom-splash:1.0.0] /home/arham/.gradle/caches/transforms-2/files-2.1/b55006f7c64ac3eca3275283af5c229f/zoom-splash-1.0.0/AndroidManifest.xml:12:5-15:19
+MERGED from [pro.appus:zoom-splash:1.0.0] /home/arham/.gradle/caches/transforms-2/files-2.1/b55006f7c64ac3eca3275283af5c229f/zoom-splash-1.0.0/AndroidManifest.xml:12:5-15:19
+MERGED from [com.github.GwonHyeok:StickySwitch:0.0.15] /home/arham/.gradle/caches/transforms-2/files-2.1/7c823cec50c1c8ee334e748a54b048aa/StickySwitch-0.0.15/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.GwonHyeok:StickySwitch:0.0.15] /home/arham/.gradle/caches/transforms-2/files-2.1/7c823cec50c1c8ee334e748a54b048aa/StickySwitch-0.0.15/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/arham/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/arham/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:18:5-28:19
+MERGED from [com.android.volley:volley:1.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/20754241ad6e2d9722ce0521dfc79b37/volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/20754241ad6e2d9722ce0521dfc79b37/volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/da76df02a2cfb28e1a68168646e15cbb/play-services-location-11.4.2/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/da76df02a2cfb28e1a68168646e15cbb/play-services-location-11.4.2/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/852664da93f4abfd4be648900090c726/play-services-tasks-11.4.2/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/852664da93f4abfd4be648900090c726/play-services-tasks-11.4.2/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:19:5-21:19
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/arham/.gradle/caches/transforms-2/files-2.1/f7d0197a0a52f55b5465816d485e66db/searchablespinnerlibrary-1.3.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/arham/.gradle/caches/transforms-2/files-2.1/f7d0197a0a52f55b5465816d485e66db/searchablespinnerlibrary-1.3.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/3159008aed2bf2fa8c2d568c390c96ae/play-services-location-license-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/3159008aed2bf2fa8c2d568c390c96ae/play-services-location-license-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/4d918c28e53bd6b9229b0cd1d683c2fd/play-services-base-license-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/4d918c28e53bd6b9229b0cd1d683c2fd/play-services-base-license-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/46ff553a72f8aa1a2138b818b54a5ffd/play-services-basement-license-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/46ff553a72f8aa1a2138b818b54a5ffd/play-services-basement-license-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/e7d653c1bb8923a62c58b580f710fbb0/play-services-tasks-license-11.4.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/e7d653c1bb8923a62c58b580f710fbb0/play-services-tasks-license-11.4.2/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:11:9-40
+activity#in.assignmentsolutions.momskart.ForgetPasswordActivity
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:12:19-57
+activity#in.assignmentsolutions.momskart.SplashScreen
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:19:27-74
+activity#in.assignmentsolutions.momskart.MainActivity
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:23:13-41
+activity#in.assignmentsolutions.momskart.SignupActivity
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:26:13-43
+activity#in.assignmentsolutions.momskart.DeshboardActivity
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:28:9-55
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:28:19-52
+activity#in.assignmentsolutions.momskart.IntroActivity
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:29:9-31:50
+	android:theme
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:30:13-42
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:33:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:34:5-75
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:34:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:35:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:36:5-79
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:36:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:37:5-81
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:37:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml:39:22-64
+uses-sdk
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+MERGED from [pro.appus:zoom-splash:1.0.0] /home/arham/.gradle/caches/transforms-2/files-2.1/b55006f7c64ac3eca3275283af5c229f/zoom-splash-1.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [pro.appus:zoom-splash:1.0.0] /home/arham/.gradle/caches/transforms-2/files-2.1/b55006f7c64ac3eca3275283af5c229f/zoom-splash-1.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [agency.tango.android:material-intro-screen:0.0.5] /home/arham/.gradle/caches/transforms-2/files-2.1/f0db727c06071417dcf63caa0b40493a/material-intro-screen-0.0.5/AndroidManifest.xml:8:5-10:41
+MERGED from [agency.tango.android:material-intro-screen:0.0.5] /home/arham/.gradle/caches/transforms-2/files-2.1/f0db727c06071417dcf63caa0b40493a/material-intro-screen-0.0.5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/1a565d561e73523cfde93032b5e4f241/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/1a565d561e73523cfde93032b5e4f241/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.GwonHyeok:StickySwitch:0.0.15] /home/arham/.gradle/caches/transforms-2/files-2.1/7c823cec50c1c8ee334e748a54b048aa/StickySwitch-0.0.15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GwonHyeok:StickySwitch:0.0.15] /home/arham/.gradle/caches/transforms-2/files-2.1/7c823cec50c1c8ee334e748a54b048aa/StickySwitch-0.0.15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.alahammad:android-OTP-View:1.0.2] /home/arham/.gradle/caches/transforms-2/files-2.1/d7676de7387415c9a43ecde34d458d05/android-OTP-View-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.alahammad:android-OTP-View:1.0.2] /home/arham/.gradle/caches/transforms-2/files-2.1/d7676de7387415c9a43ecde34d458d05/android-OTP-View-1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/arham/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/arham/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/20754241ad6e2d9722ce0521dfc79b37/volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/20754241ad6e2d9722ce0521dfc79b37/volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.gauravk.bubblenavigation:bubblenavigation:1.0.7] /home/arham/.gradle/caches/transforms-2/files-2.1/b07a636de26a3fec374af5456511d043/bubblenavigation-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.gauravk.bubblenavigation:bubblenavigation:1.0.7] /home/arham/.gradle/caches/transforms-2/files-2.1/b07a636de26a3fec374af5456511d043/bubblenavigation-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/da76df02a2cfb28e1a68168646e15cbb/play-services-location-11.4.2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/da76df02a2cfb28e1a68168646e15cbb/play-services-location-11.4.2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/852664da93f4abfd4be648900090c726/play-services-tasks-11.4.2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/852664da93f4abfd4be648900090c726/play-services-tasks-11.4.2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/b85946afde5a43ea608eda5eccc7d9e8/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/b85946afde5a43ea608eda5eccc7d9e8/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/3780989bbb47afd43f2eeea4b35b6d56/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/3780989bbb47afd43f2eeea4b35b6d56/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/269ee0dea52177bd7d346753b02cc344/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/269ee0dea52177bd7d346753b02cc344/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/arham/.gradle/caches/transforms-2/files-2.1/f7d0197a0a52f55b5465816d485e66db/searchablespinnerlibrary-1.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/arham/.gradle/caches/transforms-2/files-2.1/f7d0197a0a52f55b5465816d485e66db/searchablespinnerlibrary-1.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ogaclejapan.smarttablayout:library:1.7.0] /home/arham/.gradle/caches/transforms-2/files-2.1/04d925f3f034c4d789bf26fa15b79606/library-1.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.ogaclejapan.smarttablayout:library:1.7.0] /home/arham/.gradle/caches/transforms-2/files-2.1/04d925f3f034c4d789bf26fa15b79606/library-1.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Temidtech:AndroidOtpCustomViewmaster:1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/683f3e7647cd19420204b78dd87f4db0/AndroidOtpCustomViewmaster-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Temidtech:AndroidOtpCustomViewmaster:1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/683f3e7647cd19420204b78dd87f4db0/AndroidOtpCustomViewmaster-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zcweng:switch-button:0.0.3] /home/arham/.gradle/caches/transforms-2/files-2.1/de8a97f037dac0242bde375223c9e2f4/switch-button-0.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zcweng:switch-button:0.0.3] /home/arham/.gradle/caches/transforms-2/files-2.1/de8a97f037dac0242bde375223c9e2f4/switch-button-0.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:4.0.2] /home/arham/.gradle/caches/transforms-2/files-2.1/36384720dd6e884241ed65c96ba7cf66/circularimageview-4.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:4.0.2] /home/arham/.gradle/caches/transforms-2/files-2.1/36384720dd6e884241ed65c96ba7cf66/circularimageview-4.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/32603cb6266624d8adb9fb18c3e354e3/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/32603cb6266624d8adb9fb18c3e354e3/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/07d39432c8967fd9e82176e2bdb9c63b/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/07d39432c8967fd9e82176e2bdb9c63b/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/9c0db70b5ab5bab747773bbfa20f7935/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/9c0db70b5ab5bab747773bbfa20f7935/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/arham/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/3159008aed2bf2fa8c2d568c390c96ae/play-services-location-license-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/3159008aed2bf2fa8c2d568c390c96ae/play-services-location-license-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/arham/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/4d918c28e53bd6b9229b0cd1d683c2fd/play-services-base-license-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/4d918c28e53bd6b9229b0cd1d683c2fd/play-services-base-license-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/46ff553a72f8aa1a2138b818b54a5ffd/play-services-basement-license-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/46ff553a72f8aa1a2138b818b54a5ffd/play-services-basement-license-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/e7d653c1bb8923a62c58b580f710fbb0/play-services-tasks-license-11.4.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/e7d653c1bb8923a62c58b580f710fbb0/play-services-tasks-license-11.4.2/AndroidManifest.xml:4:5-43
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+		ADDED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arham/Downloads/Momskart-NEW/Momskart/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] /home/arham/.gradle/caches/transforms-2/files-2.1/d6bdcc21bf77ec0de20f0bc20cf3950a/library-3.3.3/AndroidManifest.xml:26:13-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/6726be10eb3ddd7f120f009ccf26d7c2/play-services-base-11.4.2/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/arham/.gradle/caches/transforms-2/files-2.1/73fd98e8df8e7b6dc1c33a65e6af9ddc/play-services-basement-11.4.2/AndroidManifest.xml:20:20-65

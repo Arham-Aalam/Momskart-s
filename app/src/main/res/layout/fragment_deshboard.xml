@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="in.assignmentsolutions.momskart.fragements.DeshboardFragment">
+
+    <LinearLayout
+        android:id="@+id/container_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:gravity="right"
+        >
+
+<!--        <io.ghyeok.stickyswitch.widget.StickySwitch-->
+<!--            android:id="@+id/id_status_switch"-->
+<!--            android:layout_width="120dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_centerInParent="true"-->
+<!--            app:ss_animationDuration="600"-->
+<!--            app:ss_iconPadding="18dp"-->
+<!--            android:layout_marginLeft="20dp"-->
+<!--            app:ss_iconSize="16dp"-->
+<!--            app:ss_leftIcon="@drawable/ic_online"-->
+<!--            app:ss_leftText="On"-->
+<!--            app:ss_rightIcon="@drawable/ic_offline"-->
+<!--            app:ss_rightText="Off"-->
+<!--            app:ss_selectedTextSize="16sp"-->
+<!--            app:ss_sliderBackgroundColor="@color/colorPrimaryDark"-->
+<!--            app:ss_switchColor="@color/startblue"-->
+<!--            app:ss_textSize="16sp"-->
+<!--            app:ss_animationType="line"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            app:ss_textColor="#000000"-->
+<!--            android:scaleX="0.7"-->
+<!--            android:scaleY="0.7"-->
+<!--            />-->
+
+        <com.suke.widget.SwitchButton
+            android:id="@+id/id_status_switch"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_margin="20dp"
+            android:saveEnabled="true"
+            />
+        <LinearLayout
+            android:layout_marginTop="0dp"
+            android:gravity="right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="on"
+                android:layout_marginHorizontal="20dp"
+                android:textSize="18sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="off"
+                android:textSize="18sp"
+                android:layout_marginHorizontal="10dp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/chart"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_margin="8dp"
+        android:layout_below="@id/container_1"
+        ></com.github.mikephil.charting.charts.PieChart>
+
+</RelativeLayout>

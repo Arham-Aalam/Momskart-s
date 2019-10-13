@@ -1,0 +1,184 @@
+<ScrollView
+    tools:context="in.assignmentsolutions.momskart.fragements.UploadFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <RelativeLayout
+            android:id="@+id/l1"
+            android:layout_width="match_parent"
+            android:layout_height="240dp">
+            <ImageView
+                android:id="@+id/id_img_upload"
+                android:layout_width="150dp"
+                android:layout_height="90dp"
+                android:src="@drawable/add_image"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_below="@id/l1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical"
+            >
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:backgroundTint="#ff000065"
+                >
+                <EditText android:id="@+id/input_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textEmailAddress"
+                    android:hint="Product Name" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:backgroundTint="#ff000065"
+                >
+                <EditText android:id="@+id/input_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textImeMultiLine"
+                    android:hint="Product Description" />
+            </android.support.design.widget.TextInputLayout>
+
+    <!--        <android.support.design.widget.TextInputLayout-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_margin="15dp"-->
+    <!--            android:backgroundTint="#ff000065"-->
+    <!--            >-->
+    <!--            <EditText android:id="@+id/input_dumm"-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:inputType="textEmailAddress"-->
+    <!--                android:hint="Email" />-->
+    <!--        </android.support.design.widget.TextInputLayout>-->
+            <Button
+                android:id="@+id/id_pick_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Add Price"
+                android:layout_margin="20dp"
+                android:background="@drawable/corner_background"
+                android:elevation="20dp"
+                />
+            <TextView
+                android:id="@+id/id_total_price"
+                android:layout_marginLeft="80dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="your price is this this this"
+                android:visibility="gone"
+                android:textColor="@color/colorPrimary"
+                />
+            <Button
+                android:id="@+id/id_pick_discount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Add Discount (optional)"
+                android:layout_margin="20dp"
+                android:background="@drawable/corner_background"
+                android:elevation="20dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Super Category:"
+                android:textSize="22dp" />
+                />
+            <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                android:id="@+id/id_cat_super"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Add Category:"
+                android:textSize="22dp"
+                android:visibility="gone"
+                />
+            />
+            <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                android:id="@+id/id_cat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Add subcategory:"
+                android:textSize="22dp"
+                android:visibility="gone"
+                />
+            />
+            <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                android:id="@+id/id_sub_cat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Select unit:"
+                android:textSize="22dp" />
+            />
+            <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                android:id="@+id/id_add_unit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                />
+            <Button
+                android:id="@+id/id_pick_quantity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Add quantity"
+                android:layout_margin="20dp"
+                android:background="@drawable/corner_background"
+                android:elevation="20dp"
+                />
+            <Button
+                android:id="@+id/id_pick_stock"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Available Stock"
+                android:layout_margin="20dp"
+                android:background="@drawable/corner_background"
+                android:elevation="20dp"
+                />
+            <Button
+                android:id="@+id/id_submit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="submit"
+                android:layout_margin="20dp"
+                android:background="@color/transparent"
+                android:elevation="20dp"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

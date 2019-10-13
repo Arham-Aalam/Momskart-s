@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="in.assignmentsolutions.momskart.DeshboardActivity">
+
+    <FrameLayout
+        android:id="@+id/contentView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="80dp"
+        >
+    </FrameLayout>
+
+    <com.gauravk.bubblenavigation.BubbleNavigationConstraintView
+        android:id="@+id/bottom_navigation_constraint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corner_background"
+        android:elevation="8dp"
+        android:layout_margin="12dp"
+        android:padding="12dp"
+        app:bnc_mode="spread"
+        android:layout_alignParentBottom="true"
+        >
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_rest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_active="true"
+            app:bt_colorActive="@color/colorAccent"
+            app:bt_colorInactive="@color/search_inactive"
+            app:bt_icon="@drawable/ic_home"
+            app:bt_title="@string/deshboard"
+            app:bt_padding="@dimen/default_nav_item_padding"
+            app:bt_badgeTextColor="@color/colorPrimary"
+            app:bt_badgeBackgroundColor="@color/colorAccent"
+            />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_rest_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_colorActive="@color/colorAccent"
+            app:bt_colorInactive="@color/search_inactive"
+            app:bt_icon="@drawable/product"
+            app:bt_title="@string/products"
+            app:bt_padding="@dimen/default_nav_item_padding"
+            app:bt_badgeTextColor="@color/colorPrimary"
+            app:bt_badgeBackgroundColor="@color/colorAccent"
+            />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_rest_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_colorActive="@color/colorAccent"
+            app:bt_colorInactive="@color/search_inactive"
+            app:bt_icon="@drawable/ic_upload"
+            app:bt_title="@string/upload"
+            app:bt_padding="@dimen/default_nav_item_padding"
+            app:bt_badgeTextColor="@color/colorPrimary"
+            app:bt_badgeBackgroundColor="@color/colorAccent"
+            />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_rest_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_colorActive="@color/colorAccent"
+            app:bt_colorInactive="@color/search_inactive"
+            app:bt_icon="@drawable/wallet"
+            app:bt_title="@string/my_wallet"
+            app:bt_padding="@dimen/default_nav_item_padding"
+            app:bt_badgeTextColor="@color/colorPrimary"
+            app:bt_badgeBackgroundColor="@color/colorAccent"
+            />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_rest_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_colorActive="@color/colorAccent"
+            app:bt_colorInactive="@color/search_inactive"
+            app:bt_icon="@drawable/avatar"
+            app:bt_title="@string/profile"
+            app:bt_padding="@dimen/default_nav_item_padding"
+            app:bt_badgeTextColor="@color/colorPrimary"
+            app:bt_badgeBackgroundColor="@color/colorAccent"
+            />
+        <!-- Add more child items here - max upto 5 -->
+
+    </com.gauravk.bubblenavigation.BubbleNavigationConstraintView>
+</RelativeLayout>
